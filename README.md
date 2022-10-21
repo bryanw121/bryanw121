@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Bryan Wu
 - 👀 I’m interested in web development, python programming, and app development.
-- 🌱 I’m currently learning web development through The Complete Web Development Bootcamp 2022 by Angela Yu.
+- 🌱 I’m currently a computer science student at Oregon State University, and I also have a Bachelor's in Biologry from the University of Texas at Austin.
 - 💞️ I’m looking to collaborate on pretty much anything!
 - 📫 Send me an email at bryan.wu.121@gmail.com.
 
